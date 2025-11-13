@@ -1,0 +1,7 @@
+{
+    "profile_urls": [
+        "https://www.instagram.com/zuck/",
+        "https://www.instagram.com/elonmusk/"
+    ],
+    "output_file": "profiles_output.json"
+}
