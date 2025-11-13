@@ -1,0 +1,22 @@
+[
+    {
+        "username": "zuck",
+        "fullName": "Mark Zuckerberg",
+        "followers": 15561792,
+        "profilePicUrl": "https://example.com/profile_pic.jpg",
+        "postsCount": 385,
+        "isBusinessAccount": false,
+        "isVerified": true,
+        "posts": [
+            {
+                "id": "3552655076181205906",
+                "caption": "Grateful to train with you @marcelogarciajiujitsu.",
+                "timestamp": 1737729509,
+                "likes": 283649,
+                "comments": 8536,
+                "mediaType": "image",
+                "mediaUrl": "https://example.com/image.jpg"
+            }
+        ]
+    }
+]
